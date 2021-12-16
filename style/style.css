@@ -4,3 +4,8 @@ body {
     color: white;
     text-align: center;
   }
+  img{
+    display: inline-block;
+    max-width: 70%;
+    height: auto;
+  }
